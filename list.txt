@@ -1,9 +1,8 @@
 Components
 
-    Header
     Footer
-    Hero banner
     Article page
     Contact us page
     Login page
     Login modal
+    Pricing section
