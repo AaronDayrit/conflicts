@@ -5,3 +5,5 @@ Components
     Hero banner
     Article page
     Contact us page
+    Login page
+    Login modal
