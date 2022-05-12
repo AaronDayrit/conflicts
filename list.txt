@@ -1,10 +1,10 @@
 Components
 
-    Header
     Footer
-    100vh Hero banner
+    100vh hero Banner
     Article page
     Contact us page
     Login page
     Login modal
+    Pricing section
     Awesome Icons
