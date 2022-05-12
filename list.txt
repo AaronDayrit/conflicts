@@ -2,8 +2,9 @@ Components
 
     Header
     Footer
-    Hero banner
+    100vh Hero banner
     Article page
     Contact us page
     Login page
     Login modal
+    Icons
